@@ -1,9 +1,5 @@
 <?php
-/* 
-    Rebuild by Maulana Rizki from Frendy
-    // Don't Remove Copyright
-
-*/
+/
 session_start();
 require '../../include/function.php';
 
